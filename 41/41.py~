@@ -1,0 +1,5 @@
+#Problem 42 Coded Triangle Numbers
+#
+from 41l import list
+def fotwo(a):
+    print(list)
